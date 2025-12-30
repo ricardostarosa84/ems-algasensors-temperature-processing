@@ -1,3 +1,6 @@
 spring:
   application:
-    name: temperature-monitoring
+    name: temperature-processing
+
+server:
+  port: 8081
