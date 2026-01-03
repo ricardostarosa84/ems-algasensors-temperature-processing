@@ -1,6 +1,5 @@
 package com.algaworks.algasensors.temperature.processing.api.controller;
 
-
 import com.algaworks.algasensors.temperature.processing.api.model.TemperatureLogOutput;
 import com.algaworks.algasensors.temperature.processing.common.IdGenerator;
 import io.hypersistence.tsid.TSID;
